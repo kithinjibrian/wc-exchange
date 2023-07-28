@@ -24,7 +24,7 @@ export const useLinkStore = defineStore('link', {
                 return uuid;
             }
             if(!getl()) {
-                let u = `https://worldcoin.vercel.app/?link=${uuid(7)}`
+                let u = `https://worldcoin-tnbd.vercel.app/?link=${uuid(7)}`
                 localStorage.setItem("link", u)
                 this.link = u
             }
