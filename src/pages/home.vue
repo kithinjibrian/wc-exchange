@@ -1,7 +1,7 @@
 <template>
     <v-sheet
     class="mx-auto mt-10"
-    width="80%">
+    width="95%">
         <v-card
         flat>
             <v-card-title><v-icon color="blue">mdi-check-decagram</v-icon> Official Worldcoin exchange.</v-card-title>

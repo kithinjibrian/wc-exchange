@@ -14,7 +14,7 @@
         </template>
 
         <v-card
-        width="80%">
+        width="100%">
             <v-card-text>
                 Please make sure you have sent worldcoins to the address provided before proceeding.
             </v-card-text>
